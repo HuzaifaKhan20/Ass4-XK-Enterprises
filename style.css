@@ -1,0 +1,141 @@
+.navbar {
+    background-color: #2196F3 !important;
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: bold !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 19px !important;
+}
+
+.fa-shopping-cart{
+    font-size: 19px !important;
+}
+
+.xklogo{
+    width: 90px;
+    
+}
+
+.xksliderimg1{
+    width: 650px !important;
+}
+
+.xkprh{
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+.xkprh1{
+    text-align: center;
+    color: #2196F3;
+}
+
+
+.card-deck{
+    margin-top: 40px !important;
+    margin-left: 100px !important;
+    margin-right: 100px !important;
+    margin-bottom: 50px !important;
+}
+
+
+.card-title,.card-text{
+    text-align: center !important;
+}
+
+.jumbotron{
+    background-color: #2196F3 !important;
+    color: white !important;
+    
+        
+}
+
+.alert-primary{
+    
+    margin-top: 25px !important;
+    margin-bottom: 100px !important;
+    text-align: center;
+}
+
+.xklogo1{
+    width: 620px;
+    
+}
+
+.xkah1{
+    font-size: 75px !important;
+}
+
+.xkap1{
+    text-align: justify !important;
+}
+
+.xkhi1{
+    margin-top: 50px !important;
+}
+
+@media (max-width: 1013px) { 
+    .xklogo1{
+        width: 500px;
+    }
+}
+
+@media (max-width: 892px) { 
+    .xklogo1{
+        width: 400px;
+    }
+}
+
+@media (max-width: 792px) { 
+    .xklogo1{
+        width: 300px;
+    }
+}
+
+@media (max-width: 692px) { 
+    .xklogo1{
+        width: 200px;
+    }
+}
+
+@media (max-width: 592px) { 
+    .xklogo1{
+        width: 100px;
+    }
+}
+
+@media (max-width: 492px) { 
+    .xklogo1{
+        width: 80px;
+    }
+}
+
+.figure{
+    margin-left: 10px !important;
+    
+}
+
+.xkhcp1{
+    font-size: 17px !important;
+}
+
+.xkhcp3{
+    font-size: 17px !important;
+    color: black !important;
+    font-weight: bold;
+}
+
+.xkconi1{
+    background-color: #2196F3 !important;
+}
+
+
+.xkcons1{
+    margin-top: 50px !important;
+    
+
+}
+
